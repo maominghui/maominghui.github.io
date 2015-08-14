@@ -49,17 +49,17 @@ bing_verify:
 # Links to include in footer navigation
 # For external links add external: true
 links:
-  - title: Home
+  - title: 主页
     url: /
     external: false
     icon: home
   #- title: <i class="icon-book"></i> Documentation
   #  url: /documentation
-  - title: Categories
+  - title: 目录
     url: /categories
-  - title: Tags
+  - title: 标签
     url: /tags
-  - title: About
+  - title: 关于
     url: /maominghui
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
