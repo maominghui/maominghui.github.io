@@ -1,0 +1,93 @@
+title:            我不是辉哥
+description:      “不要抱怨，勇往直前”
+logo:             
+disqus_shortname: maominghui
+# Assign a default image for your site's header and footer
+default_bg:       default_bg.jpg
+search:           true
+share:            true
+# Read Time is a calculator tp provide post read-time based on word count. Usage is recommended.
+readtime:         false
+# Specify the average Words per minute. If not defined, 180 will be used
+wpm:				      200
+# Turn on or off the fin animations in the header and footer
+triangleheader:		true
+animated_fins:	  true
+# Specify the fin color in RGB value
+fin_color:        "255,255,255"
+# Change url to your domain. Leave localhost server or blank when working locally.
+# or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same
+# whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
+url:       	   http://maominghui.github.io
+#url:              http://0.0.0.0:4000
+
+# Owner/author information
+owner:
+  name:           茆明辉
+  avatar:         avatar.png
+  email:          maominghui1993@gmail.com
+  # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
+  description:    一个iOS编程小白
+  # Social networking links used in footer. Update and remove as you like.
+  twitter:        CarinaTiantian
+  facebook:       
+  github:         maominghui
+  stackexchange:  http://stackoverflow.com/users/904698/carina
+  linkedin:       http://blog.csdn.net/amor_ming
+  instagram:      
+  flickr:
+  tumblr:
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:    
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:   
+google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Links to include in footer navigation
+# For external links add external: true
+links:
+  - title: Home
+    url: /
+    external: false
+    icon: home
+  #- title: <i class="icon-book"></i> Documentation
+  #  url: /documentation
+  - title: Categories
+    url: /categories
+  - title: Tags
+    url: /tags
+  - title: About
+    url: /maominghui
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    PRC
+future:      true
+highlighter: pygments
+markdown:    kramdown
+paginate:    3
+paginate_path: "page:num"
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+  coderay:
+    coderay_line_numbers:
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
