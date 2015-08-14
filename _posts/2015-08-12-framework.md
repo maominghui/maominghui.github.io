@@ -41,7 +41,7 @@ published: true
 
 > ![5](https://github.com/cjwirth/awesome-ios-ui/raw/master/assets/M13InfiniteTabBar1.gif)
 
-> [https://github.com/cjwirth/awesome-ios-ui/raw/master/assets/M13InfiniteTabBar1.gif](https://github.com/cjwirth/awesome-ios-ui/raw/master/assets/M13InfiniteTabBar1.gif)
+> [https://github.com/Marxon13/M13InfiniteTabBar](https://github.com/Marxon13/M13InfiniteTabBar)
 
 ---
 
