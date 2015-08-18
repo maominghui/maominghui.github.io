@@ -60,6 +60,9 @@ At least one of these environment variable is needed to run this program
 ###7.打开你的  safari  ，然后网址输入  [http://localhost:8080/](http://localhost:8080/)
 ![6](http://www.himigame.com/wp-content/uploads/2012/05/22222.png)
 
+---
+
+##[Mac下eclipse安装SVN插件](http://www.cnblogs.com/yinxiangpei/articles/3859057.html)
 
 
 ---
