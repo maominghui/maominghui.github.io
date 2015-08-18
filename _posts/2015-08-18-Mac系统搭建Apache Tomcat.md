@@ -14,14 +14,20 @@ published: true
 
 
 ###1.下载Eclipse
+
 ###2.下载Tomcat  [http://tomcat.apache.org/download-70.cgi](http://tomcat.apache.org/download-70.cgi)
+
+
 ![2](http://www.himigame.com/wp-content/uploads/2012/05/11.png)
 <br/>
 下载Core:(zip.pgp,md5)
 
 ###3.shift+commond+G进入 /usr/local/ 文件夹下将刚才解压后的tomcat文件夹整个放到整个目录
+
 ###4.打开终端输入pico .bash_profile  
+
 ###5.添加一个路径 export PATH=$PATH:/usr/local/apache-tomcat-7.0.63/bin
+
 ![1](http://www.himigame.com/wp-content/uploads/2012/05/3.png)
 编辑完后，control+x   （保存）    继续 ：y   （同意）     回车；
 ###6.启动tamcat
