@@ -1,0 +1,36 @@
+---
+layout: post
+title: 多线程编程（GCD）
+description: "iOS"
+category: iOS
+tags: [iOS]
+imagefeature: pic-2014-09-08.jpg
+comments: true
+mathjax: null
+featured: true
+published: true
+---
+
+{% highlight Objective-C %}
+//调用前查看当前线程
+    NSLog(@"当前调用线程:%@" ,[NSThread currentThread]);
+    
+    //创建一个串行queue
+    dispatch_queue_t queue1 = dispatch_queue_create("cn.itcast.queue", NULL);
+    
+    dispatch_sync(queue1, ^{
+        NSLog(@"开启了一个同步任务，当前线程：%@", [NSThread currentThread]);
+    });
+    
+    dispatch_async(queue1, ^{
+        NSLog(@"开启了一个异步任务，当前线程：%@",[NSThread currentThread]);
+        
+    });
+    
+    //获得全局并发queue
+    dispatch_queue_t  queue2 = dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_DEFAULT, 0);
+    size_t count2 = 10;
+    dispatch_apply(count2, queue2, ^(size_t i) {
+        printf("%zd", i);
+    });
+{% endhighlight %}
