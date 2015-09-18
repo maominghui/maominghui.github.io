@@ -103,4 +103,4 @@ string_weak_ = string;
 //在 ARC 下 NSString *string 本质上就是 __strong NSString *string
 {% endhighlight %}
 
-
+##场景1 Xcode 7 运行结果不一样，Xcode 6 一样
