@@ -31,6 +31,19 @@ __weak NSString *string_weak_ = nil;
     string_weak_ = string;
     NSLog(@"string: %@", string_weak_);
     // Do any additional setup after loading the view, typically from a nib.
+
+    // 场景 2
+//    @autoreleasepool {
+//        NSString *string = [NSString stringWithFormat:@"leichunfeng"];
+//        string_weak_ = string;
+//    }
+
+    // 场景 3
+//    NSString *string = nil;
+//    @autoreleasepool {
+//        string = [NSString stringWithFormat:@"leichunfeng"];
+//        string_weak_ = string;
+//    }
 }
 
 -(void)viewWillAppear:(BOOL)animated
@@ -53,5 +66,41 @@ __weak NSString *string_weak_ = nil;
 
 ####场景1的打印效果
 
+{% highlight Objective-C %}
+string: leichunfeng
+string: leichunfeng
+string: (null)
+{% endhighlight %}
 
-###
+###强引用和弱引用
+* 强引用：只要指针变量指向了某个对象，那么相应的对象就会多一个拥有者，并且不会被程序改变。
+* 弱引用：程序也可以选择让指针变量不影响其指向对象的拥有者个数。
+
+{% highlight Objective-C %}
+
+/**
+* 弱引用的__weak
+*
+*/
+__weak NSString *string_weak_ = nil;
+//如果重新赋值
+NSString *string = [NSString stringWithFormat:@"Maominghui"];
+string_weak_ = string;
+
+//此时的string_weak_会变成Maominghui
+//因为 __weak 变量有一个特性就是它不会影响所指向对象的生命周期
+
+/**
+* 强用的__strong
+*
+*/
+__ strong NSString *string_weak_ = nil;
+//如果重新赋值
+NSString *string = [NSString stringWithFormat:@"Maominghui"];
+string_weak_ = string;
+
+//此时的string_weak_还是nil
+//在 ARC 下 NSString *string 本质上就是 __strong NSString *string
+{% endhighlight %}
+
+
