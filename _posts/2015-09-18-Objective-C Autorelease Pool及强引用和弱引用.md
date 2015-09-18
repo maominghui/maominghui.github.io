@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Objective-C Autorelease Pool及强引用和弱引用
-description: "Objective-C Autorelease Pool"
+description: "iOS"
 category: iOS
 tags: [iOS]
 imagefeature: pic-2014-09-08.jpg
