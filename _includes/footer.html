@@ -1,100 +1,32 @@
-{% if page.imagefeature %}
-<footer id="footer"  class="blog-background overlay text-center align-middle animated from-top" style="background-image: url({{ site.url }}/images/{{ page.imagefeature }})" >
-{% else %}
-<footer id="footer"  class="blog-background overlay text-center align-middle animated from-top" style="background-image: url({{ site.url }}/images/{{ site.default_bg }})" >
-{% endif %}
+<footer class="">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <a href="mailto:{{ site.email }}"><span class="glyphicon glyphicon-envelope"></span> {{ site.email }}</a>
+        <span class="point"> · </span>
+        {% if site.github_username %}
+          
+          <a href="https://github.com/{{ site.github_username }}">
+            <span class="icon">
+              <svg viewBox="0 0 16 16">
+                <path fill="#aaa" d="M7.999,0.431c-4.285,0-7.76,3.474-7.76,7.761 c0,3.428,2.223,6.337,5.307,7.363c0.388,0.071,0.53-0.168,0.53-0.374c0-0.184-0.007-0.672-0.01-1.32 c-2.159,0.469-2.614-1.04-2.614-1.04c-0.353-0.896-0.862-1.135-0.862-1.135c-0.705-0.481,0.053-0.472,0.053-0.472 c0.779,0.055,1.189,0.8,1.189,0.8c0.692,1.186,1.816,0.843,2.258,0.645c0.071-0.502,0.271-0.843,0.493-1.037 C4.86,11.425,3.049,10.76,3.049,7.786c0-0.847,0.302-1.54,0.799-2.082C3.768,5.507,3.501,4.718,3.924,3.65 c0,0,0.652-0.209,2.134,0.796C6.677,4.273,7.34,4.187,8,4.184c0.659,0.003,1.323,0.089,1.943,0.261 c1.482-1.004,2.132-0.796,2.132-0.796c0.423,1.068,0.157,1.857,0.077,2.054c0.497,0.542,0.798,1.235,0.798,2.082 c0,2.981-1.814,3.637-3.543,3.829c0.279,0.24,0.527,0.713,0.527,1.437c0,1.037-0.01,1.874-0.01,2.129 c0,0.208,0.14,0.449,0.534,0.373c3.081-1.028,5.302-3.935,5.302-7.362C15.76,3.906,12.285,0.431,7.999,0.431z"/>
+              </svg>
+            </span>
+            Github
+            <!-- <span>{{ site.github_username }}</span> -->
+          </a>
+          
+          {% endif %}
+          <span class="point"> · </span>
+          <span><a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a></span>
+          <span class="point"> · </span>
+          <span>{{ site.description }}</span>
+          <span class="point"> · </span>
+          <span>&copy; 2015 Gaohaoyang</span>
+          <span class="point"> · </span>
+          <span>Designed by <a href="https://github.com/Gaohaoyang">HyG</a></span>
 
-    <div class="inner">
-        <div class="container">
-
-            <ul class="social-icons">
-            {% if site.owner.twitter %}<li>
-                <a href="http://twitter.com/{{ site.owner.twitter }}" data-toggle="tooltip" title="{{ site.owner.name}} on Twitter" target="_blank">
-                    <i class="icon-twitter"></i>
-                </a>
-            </li>{% endif %}
-            {% if site.owner.facebook %}<li>
-                <a href="http://facebook.com/{{ site.owner.facebook }}" data-toggle="tooltip" title="{{ site.owner.name}} on Facebook" target="_blank">
-                    <i class="icon-facebook"></i>
-                </a>
-            </li>{% endif %}
-            {% if site.owner.google_plus %}<li>
-                <a href="{{ site.owner.google_plus }}" data-toggle="tooltip" title="{{ site.owner.name}} on Google+" target="_blank">
-                    <i class="icon-google-plus"></i>
-                </a>
-            </li>{% endif %}
-            {% if site.owner.stackexchange %}<li>
-                <a href="{{ site.owner.stackexchange }}" data-toggle="tooltip" title="{{ site.owner.name}} on StackExchange" target="_blank">
-                    <i class="icon-stackexchange"></i>
-                </a>
-            </li>{% endif %}
-            {% if site.owner.linkedin %}<li>
-                <a href="{{ site.owner.linkedin }}" data-toggle="tooltip" title="{{ site.owner.name}} on LinkedIn" target="_blank">
-                    <i class="icon-linkedin"></i>
-                </a>
-            </li>{% endif %}
-            {% if site.owner.instagram %}<li>
-                <a href="http://instagram.com/{{ site.owner.instagram }}" data-toggle="tooltip" title="{{ site.owner.name}} on Instagram" target="_blank">
-                    <i class="icon-instagram"></i>
-                </a>
-            </li>{% endif %}
-            {% if site.owner.flickr %}<li>
-                <a href="http://www.flickr.com/photos/{{ site.owner.flickr }}" data-toggle="tooltip" title="{{ site.owner.name}} on Flickr" target="_blank">
-                    <i class="icon-flickr"></i>
-                </a>
-            </li>{% endif %}
-            {% if site.owner.github %}<li>
-                <a href="http://github.com/{{ site.owner.github }}" data-toggle="tooltip" title="{{ site.owner.name}} on Github" target="_blank">
-                    <i class="icon-github"></i>
-                </a>
-            </li>{% endif %}
-        </ul>
-            <div>
-                <a href="{{ site.url }}/nianxi/">{{ site.owner.name }}</a> &copy; {{ site.time | date: '%Y' }} &bull; All rights reserved.
-            </div>
-            <ul class="menu-items">
-            {% for link in site.links %}
-            <li>
-                {% if link.external %}
-                    <a href="{{ link.url }}">{% if link.icon %}<i class="icon-{{ link.icon }}"></i>{% else %}{{ link.title }}{% endif %}</a>&nbsp;&bull;
-                {% else %}
-                    <a href="{{ site.url }}{{ link.url }}">{% if link.icon %}<i class="icon-{{ link.icon }}"></i>{% else %}{{ link.title }}{% endif %}</a>&nbsp;&bull;
-                {% endif %} 
-            </li>
-            {% endfor %}
-            <li><a href="{{ site.url }}/feed.xml" title="Atom/RSS feed"><i class="icon-rss"></i> Feed</a></li>
-        </ul>
-        </div>
+      </div>
     </div>
-    {% if site.animated_fins and site.triangleheader %}
-        <div class="decor-wrapper">
-            <svg id="footer-decor" class="decor top" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 100 100" preserveAspectRatio="none">
-
-                <path class="large left" d="M0 0 L50 50 L0 100" fill="rgba({{ site.fin_color }}, .1)"></path>
-                <path class="large right" d="M100 0 L50 50 L100 100" fill="rgba({{ site.fin_color }}, .1)"></path>
-
-                <path class="medium left" d="M0 0 L50 50 L0 66.6" fill="rgba({{ site.fin_color }}, .3)"></path>
-                <path class="medium right" d="M100 0 L50 50 L100 66.6" fill="rgba({{ site.fin_color }}, .3)"></path>
-
-                <path class="small left" d="M0 0 L50 50 L0 33.3" fill="rgba({{ site.fin_color }}, .5)"></path>
-                <path class="small right" d="M100 0 L50 50 L100 33.3" fill="rgba({{ site.fin_color }}, .5)"></path>
-
-                <path d="M0 0 L50 50 L100 0 L0 0" fill="rgba(255,255,255, 1)"></path>
-
-                <path d="M48 48 L50 51 L52 48 L48 48" fill="rgba(255,255,255, 1)"></path>
-
-            </svg>
-        </div>
-    {% else %}
-    {% if site.triangleheader %}
-        <div class="decor-wrapper">
-            <svg id="footer-decor" class="decor top" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 100 100" preserveAspectRatio="none">
-                <path d="M0 0 L50 50 L100 0 L0 0" fill="rgba(255,255,255, 1)"></path>
-
-                <path d="M48 48 L50 51 L52 48 L48 48" fill="rgba(255,255,255, 1)"></path>
-
-            </svg>
-        </div>
-    {% endif %}
-    {% endif %}
+  </div>
 </footer>
