@@ -20,8 +20,8 @@ Name | Demo
 [总结的iOS、mac开源项目及库](https://github.com/Tim9Liu9/TimLiu-iOS) |NULL
 [日期选择器](https://github.com/matteogobbi/MGConferenceDatePicker) |NULL
 [相册多选库、连拍、图片浏览器](https://github.com/MakeZL/ZLPhotoLib) | ![5](https://github.com/MakeZL/ZLAssetsPickerDemo/raw/master/Demo_2.gif) |
-[简单的，体验友好的广告轮播控件](https://github.com/ColeXm/CCAdsPlayView)!NULL
-[一年成为Emacs高手(像神一样使用编辑器)](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-zh.org)|NULL|
+[简单的，体验友好的广告轮播控件](https://github.com/ColeXm/CCAdsPlayView)|NULL
+[一年成为Emacs高手(像神一样使用编辑器)](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-zh.org)|NULL
 [https://github.com/dalingge/JD-Mobile](https://github.com/dalingge/JD-Mobile)|![112](https://github.com/dalingge/JD-Mobile/raw/master/image/首页.png)|
 [https://github.com/boserup/JBWebViewController](https://github.com/boserup/JBWebViewController)|![111](https://raw.githubusercontent.com/boserup/JBWebViewController/master/Example/screenshot.png)|
 [https://github.com/Marxon13/M13ProgressSuite](https://github.com/Marxon13/M13ProgressSuite)|![107](https://camo.githubusercontent.com/09f2c629a458564176f6096db0be1a69b8eaad92/68747470733a2f2f7261772e6769746875622e636f6d2f4d6172786f6e31332f4d313350726f677265737353756974652f6d61737465722f526561646d655265736f75726365732f55494e617669676174696f6e4261722e676966)|![108](https://camo.githubusercontent.com/43c88763dfb22758f0f291404655e93d346b0b7d/68747470733a2f2f7261772e6769746875622e636f6d2f4d6172786f6e31332f4d313350726f677265737353756974652f6d61737465722f526561646d655265736f75726365732f4261722e676966)|![109](https://camo.githubusercontent.com/c25d0974f47f9ba716a1557b10aed81465d0c786/68747470733a2f2f7261772e6769746875622e636f6d2f4d6172786f6e31332f4d313350726f677265737353756974652f6d61737465722f526561646d655265736f75726365732f426f7264657265644261722e676966)|![110](https://camo.githubusercontent.com/e54ca5075db0dfafc39bdce255f0432bd925343c/68747470733a2f2f7261772e6769746875622e636f6d2f4d6172786f6e31332f4d313350726f677265737353756974652f6d61737465722f526561646d655265736f75726365732f52696e672e676966)|
