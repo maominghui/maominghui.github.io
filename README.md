@@ -20,6 +20,9 @@ Name | Demo
 [总结的iOS、mac开源项目及库](https://github.com/Tim9Liu9/TimLiu-iOS) |NULL
 [日期选择器](https://github.com/matteogobbi/MGConferenceDatePicker) |NULL
 [相册多选库、连拍、图片浏览器](https://github.com/MakeZL/ZLPhotoLib) | ![5](https://github.com/MakeZL/ZLAssetsPickerDemo/raw/master/Demo_2.gif) |
+[简单的，体验友好的广告轮播控件](https://github.com/ColeXm/CCAdsPlayView)!NULL
+[一年成为Emacs高手(像神一样使用编辑器)](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-zh.org)|NULL
+[https://github.com/dalingge/JD-Mobile](https://github.com/dalingge/JD-Mobile)|![112](https://github.com/dalingge/JD-Mobile/raw/master/image/首页.png)|
 [https://github.com/boserup/JBWebViewController](https://github.com/boserup/JBWebViewController)|![111](https://raw.githubusercontent.com/boserup/JBWebViewController/master/Example/screenshot.png)|
 [https://github.com/Marxon13/M13ProgressSuite](https://github.com/Marxon13/M13ProgressSuite)|![107](https://camo.githubusercontent.com/09f2c629a458564176f6096db0be1a69b8eaad92/68747470733a2f2f7261772e6769746875622e636f6d2f4d6172786f6e31332f4d313350726f677265737353756974652f6d61737465722f526561646d655265736f75726365732f55494e617669676174696f6e4261722e676966)|![108](https://camo.githubusercontent.com/43c88763dfb22758f0f291404655e93d346b0b7d/68747470733a2f2f7261772e6769746875622e636f6d2f4d6172786f6e31332f4d313350726f677265737353756974652f6d61737465722f526561646d655265736f75726365732f4261722e676966)|![109](https://camo.githubusercontent.com/c25d0974f47f9ba716a1557b10aed81465d0c786/68747470733a2f2f7261772e6769746875622e636f6d2f4d6172786f6e31332f4d313350726f677265737353756974652f6d61737465722f526561646d655265736f75726365732f426f7264657265644261722e676966)|![110](https://camo.githubusercontent.com/e54ca5075db0dfafc39bdce255f0432bd925343c/68747470733a2f2f7261772e6769746875622e636f6d2f4d6172786f6e31332f4d313350726f677265737353756974652f6d61737465722f526561646d655265736f75726365732f52696e672e676966)|
 [https://github.com/rolandleth/LTHPasscodeViewController](https://github.com/rolandleth/LTHPasscodeViewController)|![106](https://camo.githubusercontent.com/f75ef08e3af272400ca2ce74b90b2d2ecd099d1d/687474703a2f2f726f6c616e646c6574682e636f6d2f6173736574732f696f73372d7374796c652d70617373636f64652f73637265656e73686f742e706e67)|
@@ -90,23 +93,23 @@ Name | Demo
 [https://github.com/m1entus/MZFormSheetController](https://github.com/m1entus/MZFormSheetController)|![72](https://github.com/cjwirth/awesome-ios-ui/raw/master/assets/MZFormSheetController2.gif)|![73](https://github.com/cjwirth/awesome-ios-ui/raw/master/assets/JazzHands1.gif)|
 [https://github.com/IFTTT/JazzHands](https://github.com/IFTTT/JazzHands)|![74](https://github.com/cjwirth/awesome-ios-ui/raw/master/assets/MYBlurIntroductionView1.gif)
 
-###[https://github.com/MatthewYork/MYBlurIntroductionView](https://github.com/MatthewYork/MYBlurIntroductionView)
+[https://github.com/MatthewYork/MYBlurIntroductionView](https://github.com/MatthewYork/MYBlurIntroductionView)
 
-###
+
 
 ---
 
 ![74](https://camo.githubusercontent.com/2f47c5ac3865bf4b09d3c77e2d325d5d5abf09fe/68747470733a2f2f7261772e6769746875622e636f6d2f6d776174657266616c6c2f4d5750686f746f42726f777365722f6d61737465722f53637265656e73686f74732f4d5750686f746f42726f7773657231742e706e67)
 
 
-###[https://github.com/mwaterfall/MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser)
+[https://github.com/mwaterfall/MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser)
 
 
 ---
 
 ![75](https://camo.githubusercontent.com/09f2c629a458564176f6096db0be1a69b8eaad92/68747470733a2f2f7261772e6769746875622e636f6d2f4d6172786f6e31332f4d313350726f677265737353756974652f6d61737465722f526561646d655265736f75726365732f55494e617669676174696f6e4261722e676966)
 
-###[https://github.com/Marxon13/M13ProgressSuite](https://github.com/Marxon13/M13ProgressSuite)
+[https://github.com/Marxon13/M13ProgressSuite](https://github.com/Marxon13/M13ProgressSuite)
 
 
 ---
@@ -114,7 +117,7 @@ Name | Demo
 ![76](https://camo.githubusercontent.com/3f9c01eba9c69d030a69faaa1a2e01a733244627/687474703a2f2f636c2e6c792f696d6167652f3369343134303367323030422f64656d6f2e676966)
 
 
-###[https://github.com/nnhubbard/ZSSRichTextEditor](https://github.com/nnhubbard/ZSSRichTextEditor)
+[https://github.com/nnhubbard/ZSSRichTextEditor](https://github.com/nnhubbard/ZSSRichTextEditor)
 
 
 ---
@@ -122,25 +125,25 @@ Name | Demo
 ![77](https://github.com/cjwirth/awesome-ios-ui/raw/master/assets/MinimalTabBar1.gif)
 
 
-###[https://github.com/jamesdunay/MinimalTabBar](https://github.com/jamesdunay/MinimalTabBar)
+[https://github.com/jamesdunay/MinimalTabBar](https://github.com/jamesdunay/MinimalTabBar)
 
 ---
 
 ![78](https://camo.githubusercontent.com/96095320002c92104f5f289df902e18f11910bd5/687474703a2f2f7a697070792e6766796361742e636f6d2f4c696d69746564576967676c794765726d616e73686570686572642e676966)
 
 
-###[https://github.com/overboming/ZCAnimatedLabel](https://github.com/overboming/ZCAnimatedLabel)
+[https://github.com/overboming/ZCAnimatedLabel](https://github.com/overboming/ZCAnimatedLabel)
 
 ---
 
 ![79](https://camo.githubusercontent.com/7db7f66fb47d12a5d8ad7ca02605694fbfae5e5c/687474703a2f2f7374617469632e73717561726573706163652e636f6d2f7374617469632f3531633263353339653462303332616164373035306632652f742f3532383231636333653462303363303332653663313065382f313338343235383735363930362f626c75652e706e673f666f726d61743d37353077)
 
-###[https://github.com/lyokato/FBGlowLabel](https://github.com/lyokato/FBGlowLabel)
+[https://github.com/lyokato/FBGlowLabel](https://github.com/lyokato/FBGlowLabel)
 
 
 ---
 
-###[Swift 2.0版本 类似微信聊天APP及视频 http://www.hcxy.me](https://github.com/yagamis/IM_Swift2)
+[Swift 2.0版本 类似微信聊天APP及视频 http://www.hcxy.me](https://github.com/yagamis/IM_Swift2)
 
 
 ---
@@ -148,9 +151,7 @@ Name | Demo
 ![80](https://camo.githubusercontent.com/4f74dd006ec6c3e7f78810121e8a01936d074722/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f31393135303330302f4769746875622f41534353637265656e4272696768746e6573734465746563746f722f41534353637265656e4272696768746e6573734465746563746f722e676966)
 
 
-
-
-- ###[https://github.com/schneiderandre/ASCScreenBrightnessDetector](https://github.com/schneiderandre/ASCScreenBrightnessDetector)
+- [https://github.com/schneiderandre/ASCScreenBrightnessDetector](https://github.com/schneiderandre/ASCScreenBrightnessDetector)
 
 ---
 
