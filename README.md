@@ -43,6 +43,8 @@ V2EX|[http://www.v2ex.com](http://www.v2ex.com)
 cocoacontrols|[https://www.cocoacontrols.com](https://www.cocoacontrols.com)
 在线协作作图|[https://www.processon.com/](https://www.processon.com/)
 Dribbble|[https://dribbble.com](https://dribbble.com)
+Disk Inventory X 清理|[http://www.derlien.com/downloads/index.html](http://www.derlien.com/downloads/index.html)
+招聘一个靠谱的 iOS|[http://blog.sunnyxx.com/2015/07/04/ios-interview/](http://blog.sunnyxx.com/2015/07/04/ios-interview/)
 
 #整理的一些干货
 
