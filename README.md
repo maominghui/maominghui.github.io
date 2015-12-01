@@ -1,36 +1,4 @@
-<code><pre>
-//
-//                            _ooOoo_
-//                           o8888888o
-//                           88" . "88
-//                           (| -_- |)
-//                            O\ = /O
-//                        ____/`---'\____
-//                      .   ' \\| |// `.
-//                       / \\||| : |||// \
-//                     / _||||| -:- |||||- \
-//                       | | \\\ - /// | |
-//                     | \_| ''\---/'' | |
-//                      \ .-\__ `-` ___/-. /
-//                   ___`. .' /--.--\ `. . __
-//                ."" '< `.___\_<|>_/___.' >'"".
-//               | | : `- \`.;`\ _ /`;.`/ - ` : | |
-//                 \ \ `-. \_ __\ /__ _/ .-` / /
-//         ======`-.____`-.___\_____/___.-`____.-'======
-//                            `=---='
-//
-//         .............................................
-//                  佛祖镇楼            BUG辟易
-//          佛曰:
-//                  写字楼里写字间，写字间里程序员；
-//                  程序人员写程序，又拿程序换酒钱。
-//                  酒醒只在网上坐，酒醉还来网下眠；
-//                  酒醉酒醒日复日，网上网下年复年。
-//                  但愿老死电脑间，不愿鞠躬老板前；
-//                  奔驰宝马贵者趣，公交自行程序员。
-//                  别人笑我忒疯癫，我笑自己命太贱；
-//                  不见满街漂亮妹，哪个归得程序员？
-</code></pre>
+
 
 #个人技术博客
 > 写博客是一个不断成长的过程...
@@ -61,6 +29,7 @@ Name | Demo
 [相册多选库、连拍、图片浏览器](https://github.com/MakeZL/ZLPhotoLib) | ![5](https://github.com/MakeZL/ZLAssetsPickerDemo/raw/master/Demo_2.gif) |
 [简单的，体验友好的广告轮播控件](https://github.com/ColeXm/CCAdsPlayView)|NULL
 [一年成为Emacs高手(像神一样使用编辑器)](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-zh.org)|NULL
+[https://github.com/Ramotion/animated-tab-bar](https://github.com/Ramotion/animated-tab-bar)|![115](https://github.com/Ramotion/animated-tab-bar/raw/master/Screenshots/tab-bar-icons-iphone-ramotion-animation-interface-design.gif)
 [https://github.com/ibireme/YYKit](https://github.com/ibireme/YYKit)|![114](https://camo.githubusercontent.com/37a920f6ba4fe1fd2149ee8264a5f17cada7f1c3/68747470733a2f2f7261772e6769746875622e636f6d2f69626972656d652f59594b69742f6d61737465722f44656d6f2f536e617073686f74732f776569626f5f636f6d706f73652e706e67)|
 [https://github.com/12207480/TYAttributedLabel](https://github.com/12207480/TYAttributedLabel)|![113](https://raw.githubusercontent.com/12207480/TYAttributedLabel/master/screenshot/TYAtrributedLabelDemo.gif)|
 [https://github.com/dalingge/JD-Mobile](https://github.com/dalingge/JD-Mobile)|![112](https://github.com/dalingge/JD-Mobile/raw/master/image/首页.png)|
