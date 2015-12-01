@@ -45,6 +45,8 @@ cocoacontrols|[https://www.cocoacontrols.com](https://www.cocoacontrols.com)
 Dribbble|[https://dribbble.com](https://dribbble.com)
 Disk Inventory X 清理|[http://www.derlien.com/downloads/index.html](http://www.derlien.com/downloads/index.html)
 招聘一个靠谱的 iOS|[http://blog.sunnyxx.com/2015/07/04/ios-interview/](http://blog.sunnyxx.com/2015/07/04/ios-interview/)
+如何有逼格的写代码？|[http://kushagragour.in/code-blast-codemirror/demo/index.html](http://kushagragour.in/code-blast-codemirror/demo/index.html)
+
 
 #整理的一些干货
 
