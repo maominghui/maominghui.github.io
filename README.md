@@ -57,6 +57,7 @@ Name | Demo
 [相册多选库、连拍、图片浏览器](https://github.com/MakeZL/ZLPhotoLib) | ![5](https://github.com/MakeZL/ZLAssetsPickerDemo/raw/master/Demo_2.gif) |
 [简单的，体验友好的广告轮播控件](https://github.com/ColeXm/CCAdsPlayView)|NULL
 [一年成为Emacs高手(像神一样使用编辑器)](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-zh.org)|NULL
+[https://github.com/ibireme/YYKit](https://github.com/ibireme/YYKit)|![114](https://camo.githubusercontent.com/37a920f6ba4fe1fd2149ee8264a5f17cada7f1c3/68747470733a2f2f7261772e6769746875622e636f6d2f69626972656d652f59594b69742f6d61737465722f44656d6f2f536e617073686f74732f776569626f5f636f6d706f73652e706e67)|
 [https://github.com/12207480/TYAttributedLabel](https://github.com/12207480/TYAttributedLabel)|![113](https://raw.githubusercontent.com/12207480/TYAttributedLabel/master/screenshot/TYAtrributedLabelDemo.gif)|
 [https://github.com/dalingge/JD-Mobile](https://github.com/dalingge/JD-Mobile)|![112](https://github.com/dalingge/JD-Mobile/raw/master/image/首页.png)|
 [https://github.com/boserup/JBWebViewController](https://github.com/boserup/JBWebViewController)|![111](https://raw.githubusercontent.com/boserup/JBWebViewController/master/Example/screenshot.png)|
