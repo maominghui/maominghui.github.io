@@ -29,6 +29,10 @@ Name | Demo
 [相册多选库、连拍、图片浏览器](https://github.com/MakeZL/ZLPhotoLib) | ![5](https://github.com/MakeZL/ZLAssetsPickerDemo/raw/master/Demo_2.gif) |
 [简单的，体验友好的广告轮播控件](https://github.com/ColeXm/CCAdsPlayView)|NULL
 [一年成为Emacs高手(像神一样使用编辑器)](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-zh.org)|NULL
+[https://github.com/syedhali/EZAudio](https://github.com/syedhali/EZAudio)|![119](https://cloud.githubusercontent.com/assets/1275640/8516310/86da80f2-2367-11e5-84aa-aea25a439a76.gif)|
+[https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)|![118](https://camo.githubusercontent.com/9cdace173cd8a48b0b633c47374c3553494e0d8f/68747470733a2f2f7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f6d61737465722f6d656469612f6c6f676f2e737667)|
+[https://github.com/CosmicMind/MaterialKit](https://github.com/CosmicMind/MaterialKit)|![117](https://camo.githubusercontent.com/b73fa6eec4c0f6c7c5677aa3dd78913c864c337b/687474703a2f2f7777772e636f736d69636d696e642e696f2f4d4b2f4d6174657269616c4b69742e676966)|
+[https://github.com/AugustRush/ARAnimation](https://github.com/AugustRush/ARAnimation)|![116](https://github.com/AugustRush/ARAnimation/raw/master/ex1.gif)|
 [https://github.com/Ramotion/animated-tab-bar](https://github.com/Ramotion/animated-tab-bar)|![115](https://github.com/Ramotion/animated-tab-bar/raw/master/Screenshots/tab-bar-icons-iphone-ramotion-animation-interface-design.gif)
 [https://github.com/ibireme/YYKit](https://github.com/ibireme/YYKit)|![114](https://camo.githubusercontent.com/37a920f6ba4fe1fd2149ee8264a5f17cada7f1c3/68747470733a2f2f7261772e6769746875622e636f6d2f69626972656d652f59594b69742f6d61737465722f44656d6f2f536e617073686f74732f776569626f5f636f6d706f73652e706e67)|
 [https://github.com/12207480/TYAttributedLabel](https://github.com/12207480/TYAttributedLabel)|![113](https://raw.githubusercontent.com/12207480/TYAttributedLabel/master/screenshot/TYAtrributedLabelDemo.gif)|
