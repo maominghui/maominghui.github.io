@@ -29,6 +29,9 @@ Name | Demo
 [相册多选库、连拍、图片浏览器](https://github.com/MakeZL/ZLPhotoLib) | ![5](https://github.com/MakeZL/ZLAssetsPickerDemo/raw/master/Demo_2.gif) |
 [简单的，体验友好的广告轮播控件](https://github.com/ColeXm/CCAdsPlayView)|NULL
 [一年成为Emacs高手(像神一样使用编辑器)](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-zh.org)|NULL
+[https://github.com/Boris-Em/BEMSimpleLineGraph](https://github.com/Boris-Em/BEMSimpleLineGraph)|![222](https://camo.githubusercontent.com/c1831cfffa1ada42974e462a4aad02f10a7c51c9/687474703a2f2f7332312e706f7374696d672e6f72672f336c6b6276677035332f4749465f546f7563685f5265706f72742e676966)|
+[https://github.com/ViccAlexander/Chameleon](https://github.com/ViccAlexander/Chameleon)|![221](https://camo.githubusercontent.com/bde5aa6ee0e1feec044d184a735da8024c60c04c/687474703a2f2f692e696d6775722e636f6d2f427771486842342e706e67)|
+[https://github.com/CanvasPod/Canvas](https://github.com/CanvasPod/Canvas)|![220](https://camo.githubusercontent.com/ba061b27de1476e7ea7845d32bb9db5803509433/687474703a2f2f662e636c2e6c792f6974656d732f333530583337326532693178327932413168304b2f63616e7661732d616e696d6174696f6e2e676966)|
 [https://github.com/syedhali/EZAudio](https://github.com/syedhali/EZAudio)|![119](https://cloud.githubusercontent.com/assets/1275640/8516310/86da80f2-2367-11e5-84aa-aea25a439a76.gif)|
 [https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)|![118](https://camo.githubusercontent.com/9cdace173cd8a48b0b633c47374c3553494e0d8f/68747470733a2f2f7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f6d61737465722f6d656469612f6c6f676f2e737667)|
 [https://github.com/CosmicMind/MaterialKit](https://github.com/CosmicMind/MaterialKit)|![117](https://camo.githubusercontent.com/b73fa6eec4c0f6c7c5677aa3dd78913c864c337b/687474703a2f2f7777772e636f736d69636d696e642e696f2f4d4b2f4d6174657269616c4b69742e676966)|
