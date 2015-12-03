@@ -14,6 +14,7 @@ Dribbble|[https://dribbble.com](https://dribbble.com)
 Disk Inventory X 清理|[http://www.derlien.com/downloads/index.html](http://www.derlien.com/downloads/index.html)
 招聘一个靠谱的 iOS|[http://blog.sunnyxx.com/2015/07/04/ios-interview/](http://blog.sunnyxx.com/2015/07/04/ios-interview/)
 如何有逼格的写代码？|[https://rawgit.com/chinchang/code-blast-codemirror/master/demo/index.html](https://rawgit.com/chinchang/code-blast-codemirror/master/demo/index.html)
+大前端工具集|[https://github.com/nieweidong/fetool](https://github.com/nieweidong/fetool)
 
 
 #整理的一些干货
@@ -29,6 +30,16 @@ Name | Demo
 [相册多选库、连拍、图片浏览器](https://github.com/MakeZL/ZLPhotoLib) | ![5](https://github.com/MakeZL/ZLAssetsPickerDemo/raw/master/Demo_2.gif) |
 [简单的，体验友好的广告轮播控件](https://github.com/ColeXm/CCAdsPlayView)|NULL
 [一年成为Emacs高手(像神一样使用编辑器)](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-zh.org)|NULL
+[https://github.com/xmartlabs/Eureka](https://github.com/xmartlabs/Eureka)|![232](https://github.com/xmartlabs/Eureka/raw/master/Example/Media/EurekaRows.gif)|![233](https://github.com/xmartlabs/Eureka/raw/master/Example/Media/EurekaCustomCells.gif)|
+[https://github.com/slackhq/SlackTextViewController](https://github.com/slackhq/SlackTextViewController)|![231](https://github.com/slackhq/SlackTextViewController/raw/master/Screenshots/slacktextviewcontroller_demo.gif)|
+[https://github.com/swiftcodex/Swift-Radio-Pro](https://github.com/swiftcodex/Swift-Radio-Pro)|![230](https://camo.githubusercontent.com/fc33f681fdd2c034874bf9205a62e913abbe8d50/687474703a2f2f6d6174746865776665636865722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031352f30392f73637265656e2d312e6a7067)|
+[https://github.com/John-Lluch/SWRevealViewController](https://github.com/John-Lluch/SWRevealViewController)|![229](https://camo.githubusercontent.com/087f15627e48f65697027176502bf942c69fd887/68747470733a2f2f7261772e6769746875622e636f6d2f4a6f686e2d4c6c7563682f535752657665616c56696577436f6e74726f6c6c65722f6d61737465722f52657665616c436f6e74726f6c6c657250726f6a656374335f622e706e67)|
+[https://github.com/gontovnik/DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh)|![228](https://raw.githubusercontent.com/gontovnik/DGElasticPullToRefresh/master/DGElasticPullToRefreshPreview1.gif)
+[https://github.com/xiepanqi/XPQLabel](https://github.com/xiepanqi/XPQLabel)|![227](https://github.com/xiepanqi/XPQLabel/raw/master/domeImage/alignmentDome.gif)|
+[https://github.com/mortenjust/droptogif](https://github.com/mortenjust/droptogif)|![226](https://raw.githubusercontent.com/mortenjust/droptogif/master/ux/demos/demo_dragon.gif)|
+[https://github.com/ninjinkun/NJKWebViewProgress](https://github.com/ninjinkun/NJKWebViewProgress)|![225](https://camo.githubusercontent.com/082fc708cc461dc53832b7d14d5affdf475dd57b/68747470733a2f2f7261772e6769746875622e636f6d2f6e696e6a696e6b756e2f4e4a4b5765625669657750726f67726573732f6d61737465722f44656d6f4170702f53637265656e73686f742f73637265656e73686f74312e706e67)|
+[https://github.com/ZhipingYang/UUChartView](https://github.com/ZhipingYang/UUChartView)|![224](https://github.com/ZhipingYang/UUChartView/raw/master/UUChartViewTests/UUChartView.gif)|
+[https://github.com/hackiftekhar/IQDropDownTextField](https://github.com/hackiftekhar/IQDropDownTextField)|![223](https://camo.githubusercontent.com/c8d55a7a2c076fba38637c49d6e76234b88de8d2/687474703a2f2f692e696d6775722e636f6d2f4b65755a3853782e706e67)|
 [https://github.com/Boris-Em/BEMSimpleLineGraph](https://github.com/Boris-Em/BEMSimpleLineGraph)|![222](https://camo.githubusercontent.com/c1831cfffa1ada42974e462a4aad02f10a7c51c9/687474703a2f2f7332312e706f7374696d672e6f72672f336c6b6276677035332f4749465f546f7563685f5265706f72742e676966)|
 [https://github.com/ViccAlexander/Chameleon](https://github.com/ViccAlexander/Chameleon)|![221](https://camo.githubusercontent.com/bde5aa6ee0e1feec044d184a735da8024c60c04c/687474703a2f2f692e696d6775722e636f6d2f427771486842342e706e67)|
 [https://github.com/CanvasPod/Canvas](https://github.com/CanvasPod/Canvas)|![220](https://camo.githubusercontent.com/ba061b27de1476e7ea7845d32bb9db5803509433/687474703a2f2f662e636c2e6c792f6974656d732f333530583337326532693178327932413168304b2f63616e7661732d616e696d6174696f6e2e676966)|
