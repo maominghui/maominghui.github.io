@@ -1,5 +1,3 @@
-
-
 #个人技术博客
 > 写博客是一个不断成长的过程...
 
@@ -15,6 +13,8 @@ Disk Inventory X 清理|[http://www.derlien.com/downloads/index.html](http://www
 招聘一个靠谱的 iOS|[http://blog.sunnyxx.com/2015/07/04/ios-interview/](http://blog.sunnyxx.com/2015/07/04/ios-interview/)
 如何有逼格的写代码？|[https://rawgit.com/chinchang/code-blast-codemirror/master/demo/index.html](https://rawgit.com/chinchang/code-blast-codemirror/master/demo/index.html)
 大前端工具集|[https://github.com/nieweidong/fetool](https://github.com/nieweidong/fetool)
+设计创意和动效|[https://dribbble.com]
+
 
 
 #整理的一些干货
@@ -30,6 +30,12 @@ Name | Demo
 [相册多选库、连拍、图片浏览器](https://github.com/MakeZL/ZLPhotoLib) | ![5](https://github.com/MakeZL/ZLAssetsPickerDemo/raw/master/Demo_2.gif) |
 [简单的，体验友好的广告轮播控件](https://github.com/ColeXm/CCAdsPlayView)|NULL
 [一年成为Emacs高手(像神一样使用编辑器)](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-zh.org)|NULL
+[https://github.com/100apps/openshare](https://github.com/100apps/openshare)|![240](https://raw.githubusercontent.com/100apps/openshare/gh-pages/images/pay.gif)|
+[https://github.com/100apps/openshare](https://github.com/100apps/openshare)|![239](https://github.com/100apps/openshare/raw/gh-pages/images/demo.gif)|
+[https://github.com/weida-studio/QQ](https://github.com/weida-studio/QQ)|![238](https://github.com/weida-studio/QQ/raw/master/Sceenshots/screenShots.gif)|
+[https://github.com/clusterinc/ClusterPrePermissions](https://github.com/clusterinc/ClusterPrePermissions)|![237](https://camo.githubusercontent.com/7eef0b117818b9da198cfc850ce21171e4b9d204/687474703a2f2f662e636c2e6c792f6974656d732f32493156315233623371334133483379337531382f6e65772d312e6a7067)|
+[https://github.com/SergioChan/SCTrelloNavigation](https://github.com/SergioChan/SCTrelloNavigation)|![236](https://raw.githubusercontent.com/SergioChan/SCTrelloNavigation/master/Image/previewgif.gif)|
+[https://github.com/leichunfeng/WXTabBarController](https://github.com/leichunfeng/WXTabBarController)|![235](https://github.com/leichunfeng/WXTabBarController/raw/master/GIF/WXTabBarController.gif)|
 [https://github.com/chroman/CRGradientNavigationBar](https://github.com/chroman/CRGradientNavigationBar)|![234](https://camo.githubusercontent.com/7a87ea5dfe1ca53bf9f832396455860bcd24b3c2/687474703a2f2f6368726f6d616e2e6d652f77702d636f6e74656e742f75706c6f6164732f323031332f31302f6d61696e2e706e67)|
 [https://github.com/travisjeffery/ClangFormat-Xcode](https://github.com/travisjeffery/ClangFormat-Xcode)|![233](https://camo.githubusercontent.com/758d8d2c87f7ec1bb3b6882d6500fe4cf5252759/68747470733a2f2f7261772e6769746875622e636f6d2f7472617669736a6566666572792f436c616e67466f726d61742d58636f64652f6d61737465722f524541444d452f636c616e67666f726d61742d78636f64652d64656d6f2e676966)|
 [https://github.com/xmartlabs/Eureka](https://github.com/xmartlabs/Eureka)|![232](https://github.com/xmartlabs/Eureka/raw/master/Example/Media/EurekaRows.gif)|![233](https://github.com/xmartlabs/Eureka/raw/master/Example/Media/EurekaCustomCells.gif)|
