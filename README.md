@@ -14,6 +14,7 @@ Disk Inventory X 清理|[http://www.derlien.com/downloads/index.html](http://www
 如何有逼格的写代码？|[https://rawgit.com/chinchang/code-blast-codemirror/master/demo/index.html](https://rawgit.com/chinchang/code-blast-codemirror/master/demo/index.html)
 大前端工具集|[https://github.com/nieweidong/fetool](https://github.com/nieweidong/fetool)
 设计创意和动效|[https://dribbble.com]
+在网上学习全世界最好的课程|[https://www.coursera.org]
 
 
 
