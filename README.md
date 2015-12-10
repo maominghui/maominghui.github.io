@@ -31,6 +31,12 @@ Name | Demo
 [相册多选库、连拍、图片浏览器](https://github.com/MakeZL/ZLPhotoLib) | ![5](https://github.com/MakeZL/ZLAssetsPickerDemo/raw/master/Demo_2.gif) |
 [简单的，体验友好的广告轮播控件](https://github.com/ColeXm/CCAdsPlayView)|NULL
 [一年成为Emacs高手(像神一样使用编辑器)](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-zh.org)|NULL
+[https://github.com/rickytan/RTImageAssets](https://github.com/rickytan/RTImageAssets)|![246](https://github.com/rickytan/RTImageAssets/raw/master/ScreenCap/usage.gif)|
+[https://github.com/cwRichardKim/RKNotificationHub](https://github.com/cwRichardKim/RKNotificationHub)|![245](https://camo.githubusercontent.com/e09d52d46624bc3e5809c5f071882cfc8d49a7bf/687474703a2f2f692e696d6775722e636f6d2f537045324251762e676966)|
+[https://github.com/bennyguitar/Colours#black-or-white-contrasting-color](https://github.com/bennyguitar/Colours#black-or-white-contrasting-color)|![244](https://github.com/bennyguitar/Colours/blob/master/Screenshots/banner.png)|
+[https://github.com/forkingdog/FDFullscreenPopGesture](https://github.com/forkingdog/FDFullscreenPopGesture)|![243](https://raw.githubusercontent.com/forkingdog/FDFullscreenPopGesture/master/Snapshots/snapshot1.gif)|
+[https://github.com/singro/v2ex](https://github.com/singro/v2ex)|![242](https://camo.githubusercontent.com/c6a771baece16d68042289306522f14da7f2a65c/687474703a2f2f692e763265782e636f2f45776e75433775662e706e67)
+[https://github.com/kasketis/netfox](https://github.com/kasketis/netfox)|![241](https://raw.githubusercontent.com/kasketis/netfox/master/assets/overview1_5_3.gif)|
 [https://github.com/100apps/openshare](https://github.com/100apps/openshare)|![240](https://raw.githubusercontent.com/100apps/openshare/gh-pages/images/pay.gif)|
 [https://github.com/100apps/openshare](https://github.com/100apps/openshare)|![239](https://github.com/100apps/openshare/raw/gh-pages/images/demo.gif)|
 [https://github.com/weida-studio/QQ](https://github.com/weida-studio/QQ)|![238](https://github.com/weida-studio/QQ/raw/master/Sceenshots/screenShots.gif)|
