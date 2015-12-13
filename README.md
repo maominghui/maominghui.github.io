@@ -31,6 +31,7 @@ Name | Demo
 [相册多选库、连拍、图片浏览器](https://github.com/MakeZL/ZLPhotoLib) | ![5](https://github.com/MakeZL/ZLAssetsPickerDemo/raw/master/Demo_2.gif) |
 [简单的，体验友好的广告轮播控件](https://github.com/ColeXm/CCAdsPlayView)|NULL
 [一年成为Emacs高手(像神一样使用编辑器)](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-zh.org)|NULL
+[https://github.com/Xiezhichao/CCWebViewController](https://github.com/Xiezhichao/CCWebViewController)|![248](https://github.com/Xiezhichao/CCWebViewController/blob/master/demo.gif)|
 [https://github.com/DanisFabric/RainbowNavigation](https://github.com/DanisFabric/RainbowNavigation)|![247](https://github.com/DanisFabric/RainbowNavigation/raw/master/images/demo1.gif)|
 [https://github.com/rickytan/RTImageAssets](https://github.com/rickytan/RTImageAssets)|![246](https://github.com/rickytan/RTImageAssets/raw/master/ScreenCap/usage.gif)|
 [https://github.com/cwRichardKim/RKNotificationHub](https://github.com/cwRichardKim/RKNotificationHub)|![245](https://camo.githubusercontent.com/e09d52d46624bc3e5809c5f071882cfc8d49a7bf/687474703a2f2f692e696d6775722e636f6d2f537045324251762e676966)|
