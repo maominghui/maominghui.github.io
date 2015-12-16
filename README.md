@@ -32,7 +32,6 @@ Name | Demo
 [简单的，体验友好的广告轮播控件](https://github.com/ColeXm/CCAdsPlayView)|NULL
 [一年成为Emacs高手(像神一样使用编辑器)](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-zh.org)|NULL
 [https://github.com/ChenYilong/CollectionViewClassifyMenu](https://github.com/ChenYilong/CollectionViewClassifyMenu)|![250](https://camo.githubusercontent.com/9e6d12ea0183c7657d0d97e77204e826163f799e/68747470733a2f2f692e696d6775722e636f6d2f5a794a666c50682e676966)|
-[https://github.com/xushao1990/XTNews](https://github.com/xushao1990/XTNews)|![249](https://raw.githubusercontent.com/xushao1990/XTNews/master/Screenshots/first.gif)|
 [https://github.com/Xiezhichao/CCWebViewController](https://github.com/Xiezhichao/CCWebViewController)|![248](https://github.com/Xiezhichao/CCWebViewController/blob/master/demo.gif)|
 [https://github.com/DanisFabric/RainbowNavigation](https://github.com/DanisFabric/RainbowNavigation)|![247](https://github.com/DanisFabric/RainbowNavigation/raw/master/images/demo1.gif)|
 [https://github.com/rickytan/RTImageAssets](https://github.com/rickytan/RTImageAssets)|![246](https://github.com/rickytan/RTImageAssets/raw/master/ScreenCap/usage.gif)|
