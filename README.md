@@ -27,8 +27,8 @@ Name | Demo
 [Swift语言](https://github.com/ipader/SwiftGuide) |NULL
 [纽约时报 移动团队 Objective-C 规范指南](https://github.com/VincentSit/NYTimes-Objective-C-Style-Guide-ZH) | NULL
 [总结的iOS、mac开源项目及库](https://github.com/Tim9Liu9/TimLiu-iOS) |NULL
-[日期选择器](https://github.com/matteogobbi/MGConferenceDatePicker) |NULL
-[相册多选库、连拍、图片浏览器](https://github.com/MakeZL/ZLPhotoLib) | ![5](https://github.com/MakeZL/ZLAssetsPickerDemo/raw/master/Demo_2.gif) |
+[日期选择器](https://github.com/matteogobbi/MGConferenceDatePicker) |![111112](https://camo.githubusercontent.com/2d05d142773041b048ad777201f90d6ac32832bc/687474703a2f2f6935372e74696e797069632e636f6d2f32696c6e3565762e706e67)|
+[相册多选库、连拍、图片浏览器](https://github.com/MakeZL/ZLPhotoLib)|![5](https://github.com/MakeZL/ZLAssetsPickerDemo/raw/master/Demo_2.gif)|
 [简单的，体验友好的广告轮播控件](https://github.com/ColeXm/CCAdsPlayView)|NULL
 [一年成为Emacs高手(像神一样使用编辑器)](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-zh.org)|NULL
 [https://github.com/ChenYilong/CollectionViewClassifyMenu](https://github.com/ChenYilong/CollectionViewClassifyMenu)|![250](https://camo.githubusercontent.com/9e6d12ea0183c7657d0d97e77204e826163f799e/68747470733a2f2f692e696d6775722e636f6d2f5a794a666c50682e676966)|
