@@ -5,6 +5,7 @@
 
 名称 | 网站
 ---  | ---
+iOS开发视频教程（李明杰）|[http://pan.baidu.com/s/1sjVdl97](http://pan.baidu.com/s/1sjVdl97) 密码:2zqs
 V2EX|[http://www.v2ex.com](http://www.v2ex.com)
 cocoacontrols|[https://www.cocoacontrols.com](https://www.cocoacontrols.com)
 在线协作作图|[https://www.processon.com/](https://www.processon.com/)
@@ -15,6 +16,7 @@ Disk Inventory X 清理|[http://www.derlien.com/downloads/index.html](http://www
 大前端工具集|[https://github.com/nieweidong/fetool](https://github.com/nieweidong/fetool)
 设计创意和动效|[https://dribbble.com](https://dribbble.com)
 在网上学习全世界最好的课程|[https://www.coursera.org](https://www.coursera.org)
+
 
 
 
