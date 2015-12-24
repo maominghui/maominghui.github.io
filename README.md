@@ -16,6 +16,7 @@ Disk Inventory X 清理|[http://www.derlien.com/downloads/index.html](http://www
 大前端工具集|[https://github.com/nieweidong/fetool](https://github.com/nieweidong/fetool)
 设计创意和动效|[https://dribbble.com](https://dribbble.com)
 在网上学习全世界最好的课程|[https://www.coursera.org](https://www.coursera.org)
+谷歌镜像网站收集|[https://github.com/6ag/Google-website](https://github.com/6ag/Google-website)
 
 
 
