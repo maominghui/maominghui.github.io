@@ -33,6 +33,9 @@ Name | Demo
 [相册多选库、连拍、图片浏览器](https://github.com/MakeZL/ZLPhotoLib)|![5](https://github.com/MakeZL/ZLAssetsPickerDemo/raw/master/Demo_2.gif)|
 [简单的，体验友好的广告轮播控件](https://github.com/ColeXm/CCAdsPlayView)|NULL
 [一年成为Emacs高手(像神一样使用编辑器)](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-zh.org)|NULL
+[https://github.com/romaonthego/REMenu](https://github.com/romaonthego/REMenu)|![254](https://github.com/romaonthego/REMenu/raw/master/Demo.gif)|
+[https://github.com/romaonthego/RESideMenu](https://github.com/romaonthego/RESideMenu)|![253](https://raw.githubusercontent.com/romaonthego/RESideMenu/master/Demo.gif?2)|
+[https://github.com/romaonthego/REFrostedViewController](https://github.com/romaonthego/REFrostedViewController)|![252](https://github.com/romaonthego/REFrostedViewController/raw/master/Demo.gif)|
 [https://github.com/dsxNiubility/SXNews](https://github.com/dsxNiubility/SXNews)|![251](https://github.com/dsxNiubility/SXNews/raw/master/screenshots/68.gif)|
 [https://github.com/ChenYilong/CollectionViewClassifyMenu](https://github.com/ChenYilong/CollectionViewClassifyMenu)|![250](https://camo.githubusercontent.com/9e6d12ea0183c7657d0d97e77204e826163f799e/68747470733a2f2f692e696d6775722e636f6d2f5a794a666c50682e676966)|
 [https://github.com/Xiezhichao/CCWebViewController](https://github.com/Xiezhichao/CCWebViewController)|![248](https://github.com/Xiezhichao/CCWebViewController/blob/master/demo.gif)|
