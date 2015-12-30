@@ -34,6 +34,7 @@ Name | Demo
 [相册多选库、连拍、图片浏览器](https://github.com/MakeZL/ZLPhotoLib)|![5](https://github.com/MakeZL/ZLAssetsPickerDemo/raw/master/Demo_2.gif)|
 [简单的，体验友好的广告轮播控件](https://github.com/ColeXm/CCAdsPlayView)|NULL
 [一年成为Emacs高手(像神一样使用编辑器)](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-zh.org)|NULL
+[https://github.com/6ag/shoppingCart](https://github.com/6ag/shoppingCart)|![265](https://github.com/6ag/shoppingCart/raw/master/shoppingCart.gif)|
 [https://github.com/lexrus/LTBouncyPlaceholder](https://github.com/lexrus/LTBouncyPlaceholder)|![264](https://cloud.githubusercontent.com/assets/219689/3242824/e3d3f00e-f14f-11e3-8028-08327d011499.gif)|
 [https://github.com/pkluz/PKRevealController](https://github.com/pkluz/PKRevealController)|![263](https://camo.githubusercontent.com/0fb9edaace4d7ccbf34aeeae691dff0b3423fe03/687474703a2f2f696d6733342e696d616765736861636b2e75732f696d6733342f313435362f686e73312e706e67)|
 [https://github.com/jessesquires/BButton](https://github.com/jessesquires/BButton)|![262](https://raw.githubusercontent.com/jessesquires/BButton/master/Screenshots/screenshot2.png)|
