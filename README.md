@@ -5,7 +5,7 @@
 
 名称 | 网站
 ---  | ---
-iOS开发视频教程（李明杰）|[http://pan.baidu.com/s/1sjVdl97](http://pan.baidu.com/s/1sjVdl97) 密码:2zqs
+iOS开发视频教程（李明杰）|[http://pan.baidu.com/s/1bnoyUM](http://pan.baidu.com/s/1bnoyUM) 密码:whc8
 V2EX|[http://www.v2ex.com](http://www.v2ex.com)
 cocoacontrols|[https://www.cocoacontrols.com](https://www.cocoacontrols.com)
 在线协作作图|[https://www.processon.com/](https://www.processon.com/)
