@@ -19,6 +19,7 @@ Disk Inventory X 清理|[http://www.derlien.com/downloads/index.html](http://www
 谷歌镜像网站收集|[https://github.com/6ag/Google-website](https://github.com/6ag/Google-website)
 展示和发现创意作品|[https://www.behance.net](https://www.behance.net)
 RunJS - 在线编辑、展示、分享、交流你的 JavaScript 代码|[http://runjs.cn](http://runjs.cn)
+推荐播客（一）|[http://www.saitjr.com/](http://www.saitjr.com/)
 
 
 #整理的一些干货
@@ -34,6 +35,9 @@ Name | Demo
 [相册多选库、连拍、图片浏览器](https://github.com/MakeZL/ZLPhotoLib)|![5](https://github.com/MakeZL/ZLAssetsPickerDemo/raw/master/Demo_2.gif)|
 [简单的，体验友好的广告轮播控件](https://github.com/ColeXm/CCAdsPlayView)|NULL
 [一年成为Emacs高手(像神一样使用编辑器)](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-zh.org)|NULL
+[https://github.com/saitjr/STLoadingGroup](https://github.com/saitjr/STLoadingGroup)|![277](https://github.com/saitjr/STLoadingGroup/raw/master/SCREENSHOTS/STSubmitButton.gif)|(https://github.com/saitjr/STLoadingGroup/raw/master/SCREENSHOTS/STSpotLoadView-Walk.gif)|
+[https://github.com/saitjr/TColorfulTabBar](https://github.com/saitjr/TColorfulTabBar)|![276](https://github.com/saitjr/TColorfulTabBar/raw/master/README-IMAGES/result.gif)|
+[https://github.com/wangshengjia/VWInstantRun](https://github.com/wangshengjia/VWInstantRun)|![275](https://github.com/wangshengjia/VWInstantRun/raw/master/run_objc_code_1.gif)|
 [https://github.com/jivesoftware/PDTSimpleCalendar](https://github.com/jivesoftware/PDTSimpleCalendar)|![274](https://github.com/jivesoftware/PDTSimpleCalendar/raw/master/Documentation/default.png)|
 [https://github.com/bb-coder/BHBPopView](https://github.com/bb-coder/BHBPopView)|![273](https://camo.githubusercontent.com/78dd79e81febd7dd17c496185c85c674249eb22a/687474703a2f2f37786b6468652e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f73696e61416e696d6174696f6e322e676966)|
 [https://github.com/donobono/DoImagePickerController](https://github.com/donobono/DoImagePickerController)|![272](https://camo.githubusercontent.com/d37406d386b8212fa24afd2681d1eae2fc17ce0f/68747470733a2f2f7261772e6769746875622e636f6d2f646f6e6f626f6e6f2f446f496d6167655069636b6572436f6e74726f6c6c65722f6d61737465722f70322e6a7067)|
