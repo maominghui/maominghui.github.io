@@ -35,6 +35,9 @@ Name | Demo
 [相册多选库、连拍、图片浏览器](https://github.com/MakeZL/ZLPhotoLib)|![5](https://github.com/MakeZL/ZLAssetsPickerDemo/raw/master/Demo_2.gif)|
 [简单的，体验友好的广告轮播控件](https://github.com/ColeXm/CCAdsPlayView)|NULL
 [一年成为Emacs高手(像神一样使用编辑器)](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-zh.org)|NULL
+[https://github.com/FolioReader/FolioReaderKit](https://github.com/FolioReader/FolioReaderKit)|![280](https://raw.githubusercontent.com/FolioReader/FolioReaderKit/assets/custom-fonts.gif)|(https://raw.githubusercontent.com/FolioReader/FolioReaderKit/assets/highlight.gif)|
+[https://github.com/YouXianMing/YoCelsius](https://github.com/YouXianMing/YoCelsius)|![279](https://camo.githubusercontent.com/d9a32d8dfa29de2847aaf5c12d6cc07a1d93b20e/687474703a2f2f696d616765732e636e6974626c6f672e636f6d2f626c6f67323031352f3630373534322f3230313530342f3231313630383033373334373738332e676966)|
+[https://github.com/brentvatne/react-native-scrollable-tab-view](https://github.com/brentvatne/react-native-scrollable-tab-view)|![278](https://raw.githubusercontent.com/brentvatne/react-native-scrollable-tab-view/master/demo-fb.gif)|
 [https://github.com/saitjr/STLoadingGroup](https://github.com/saitjr/STLoadingGroup)|![277](https://github.com/saitjr/STLoadingGroup/raw/master/SCREENSHOTS/STSubmitButton.gif)|(https://github.com/saitjr/STLoadingGroup/raw/master/SCREENSHOTS/STSpotLoadView-Walk.gif)|
 [https://github.com/saitjr/TColorfulTabBar](https://github.com/saitjr/TColorfulTabBar)|![276](https://github.com/saitjr/TColorfulTabBar/raw/master/README-IMAGES/result.gif)|
 [https://github.com/wangshengjia/VWInstantRun](https://github.com/wangshengjia/VWInstantRun)|![275](https://github.com/wangshengjia/VWInstantRun/raw/master/run_objc_code_1.gif)|
