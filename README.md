@@ -1,3 +1,6 @@
+Welcome to join WeChat Group !
+![](https://github.com/maominghui/maominghui.github.io/blob/master/1038388-c0ad93f0171c4644.jpeg)
+![](https://github.com/maominghui/maominghui.github.io/blob/master/1038388-d4a7c84ea2ee65fc.jpeg)
 #个人技术博客
 > 写博客是一个不断成长的过程...
 
