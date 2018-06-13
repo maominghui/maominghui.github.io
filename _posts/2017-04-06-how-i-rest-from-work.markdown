@@ -9,19 +9,33 @@ tags: [产品体验]
 ---
 
 > 目录
+
 > 1、体验环境
+
 > 2、Soul产品简介
+
 > 3、Soul产品定位
+
 > 4、Soul商店截图
+
 > 5、Soul核心业务逻辑
+
 > 6、Soul功能结构图
+
 > 7、Soul用户使用流程
+
 > 8、Soul功能体验分析
+
 > 9、Soul用户使用场景
+
 > 10、版本迭代浅析
+
 > 11、Soul运营浅析
+
 > 12、应用优化检测
+
 > 13、如果我是Soul的PM
+
 > 14、总结
 
 
@@ -137,24 +151,24 @@ iOS版本：11.3
 10、版本迭代浅析
 
 1.0 - 1.7版本Soul主要基础功能的发布，修改Bug和优化内容为主。
-![ ](https://mmbiz.qpic.cn/mmbiz_png/XRE1TI56PDGdHiazQ9ciaqzb7QS7lyfPfgyv8gS0yWb3EdfD43IWqdpkTicia2Fqbt7gcFSwBEnTVcp3qukricUK8UQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1)
+![ ]({{site.baseurl}}/assets/img/soul/Ji2.png)
 
 
 
 
 2.0版本开始属于一个比较核心的版本，增加了推荐广场、星球筛选、个人标签系统、表情包、优化UI
-![ ](https://mmbiz.qpic.cn/mmbiz_png/XRE1TI56PDGdHiazQ9ciaqzb7QS7lyfPfgicHv7aOZWha3XSKwk6d0InDZg5dm46M3BsOpoVbL8qvrGuVWibleNHpg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1)
+![ ]({{site.baseurl}}/assets/img/soul/Ji3.png)
 
 
 
 
 3.2.1版本增加了Soulmate标记，用户量和排名有一个质的飞跃
-![ ](https://mmbiz.qpic.cn/mmbiz_png/XRE1TI56PDGdHiazQ9ciaqzb7QS7lyfPfgeG1f0erm24vBbYP4ECWibKrk46fGSVEgFq2gQkSNSiaAqczmLl44lD2g/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1)
+![ ]({{site.baseurl}}/assets/img/soul/Ji4.png)
 
 
 
 3.7.7版本中发布瞬间交互的优化，让瞬间更加有私密感。
-![](https://mmbiz.qpic.cn/mmbiz_png/XRE1TI56PDGdHiazQ9ciaqzb7QS7lyfPfgm2l2ejw4aLPibehaibXF7iculVoomy6TxEPYPoNjO4chydWHsWHZEQaGw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1)
+![ ]({{site.baseurl}}/assets/img/soul/Ji5.png)
 
 
 
@@ -181,7 +195,7 @@ Soul亮点浅析
 
 
 12、应用优化检测
-![ ](https://mmbiz.qpic.cn/mmbiz_png/XRE1TI56PDGdHiazQ9ciaqzb7QS7lyfPfgZ26q89tMDe99wSwj21Kj69gyMzKzQ356LbZhDAMGe7eZ4ENgLibp7xA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1)
+![ ]({{site.baseurl}}/assets/img/soul/Ji6.png)
 
 
 建议提高关键词覆盖率，以增加曝光量和下载量
