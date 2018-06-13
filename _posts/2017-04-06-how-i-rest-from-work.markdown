@@ -93,6 +93,7 @@ iOS版本：11.3
 8、Soul功能体验分析
 
 广场
+
 ![广场]({{site.baseurl}}/assets/img/soul/soul5.png)
 
 
@@ -109,6 +110,7 @@ iOS版本：11.3
 
 
 星球
+
 ![Soul用户使用流程]({{site.baseurl}}/assets/img/soul/soul4.png)
 
 
@@ -151,24 +153,25 @@ iOS版本：11.3
 10、版本迭代浅析
 
 1.0 - 1.7版本Soul主要基础功能的发布，修改Bug和优化内容为主。
-![ ]({{site.baseurl}}/assets/img/soul/Ji2.png)
+
+![1.0 - 1.7]({{site.baseurl}}/assets/img/soul/Ji2.png)
 
 
 
 
 2.0版本开始属于一个比较核心的版本，增加了推荐广场、星球筛选、个人标签系统、表情包、优化UI
-![ ]({{site.baseurl}}/assets/img/soul/Ji3.png)
+![2.0]({{site.baseurl}}/assets/img/soul/Ji3.png)
 
 
 
 
 3.2.1版本增加了Soulmate标记，用户量和排名有一个质的飞跃
-![ ]({{site.baseurl}}/assets/img/soul/Ji4.png)
+![3.2.1]({{site.baseurl}}/assets/img/soul/Ji4.png)
 
 
 
 3.7.7版本中发布瞬间交互的优化，让瞬间更加有私密感。
-![ ]({{site.baseurl}}/assets/img/soul/Ji5.png)
+![3.7.7]({{site.baseurl}}/assets/img/soul/Ji5.png)
 
 
 
@@ -176,8 +179,9 @@ iOS版本：11.3
 11、Soul运营浅析
 
 1、Soul的运营策略是微博、微信公众号、微信小程序、App推送、广告投放、官网、贴吧。其中，最值得称赞的是微博中的宣传，在我问了这么多Souler中很多都是因为它而下载的。一款好的产品也靠好的口碑相传，也有不少用户是通过朋友间告知而下载。
-![ ]({{site.baseurl}}/assets/img/soul/soul7.png)
-![ ]({{site.baseurl}}/assets/img/soul/soul9.png)
+
+![One]({{site.baseurl}}/assets/img/soul/soul7.png)
+![Two]({{site.baseurl}}/assets/img/soul/soul9.png)
 
 
 
@@ -195,14 +199,16 @@ Soul亮点浅析
 
 
 12、应用优化检测
-![ ]({{site.baseurl}}/assets/img/soul/Ji6.png)
+
+![应用优化检测]({{site.baseurl}}/assets/img/soul/Ji6.png)
 
 
 建议提高关键词覆盖率，以增加曝光量和下载量
 
 
 下载量和排名
-![ ]({{site.baseurl}}/assets/img/soul/soul8.png)
+
+![下载量和排名]({{site.baseurl}}/assets/img/soul/soul8.png)
 
 抽取了近三个月Soul的iOS下载量和排名数据，从上述图中可以看到，近三个月的下载量里，共有三个下载高峰期；且高峰期内，产品的总榜排名也在上升，社交榜基本保持不变，说明运营的作用对于总榜排名较为有效，有上升空间，而社交榜保持稳定。三个小高峰则是Soul运营的结果，从曲线图看，说明运营效果明显。但从产品角度考虑，建议加大对广场运营力度，以提高用户粘度和新鲜感。
 
