@@ -97,7 +97,7 @@ iOS版本：11.3
 
 广场
 
-![广场.png]({{site.baseurl}}/assets/img/soul/soul5.jpg)
+![广场]({{site.baseurl}}/assets/img/soul/soul5.jpg)
 
 
 
@@ -114,7 +114,7 @@ iOS版本：11.3
 
 星球
 
-![星球.png]({{site.baseurl}}/assets/img/soul/soul6.png)
+![星球]({{site.baseurl}}/assets/img/soul/soul6.jpg)
 
 
 【星球】该界面设计独特，吸人眼球。星球中的机器人匹配功能也是一个高频使用的功能，灵魂测试功能保证了匹配的相似程度。摇一摇切换星球功能是一个创意性功能。通过筛选可以个性化推荐souler。
