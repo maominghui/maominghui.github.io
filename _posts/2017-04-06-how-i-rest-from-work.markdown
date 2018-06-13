@@ -88,7 +88,7 @@ iOS版本：11.3
 
 7、Soul用户使用流程
 
-![用户使用流程]({{site.baseurl}}/assets/img/soul/soul4.png)
+![用户使用流程]({{site.baseurl}}/assets/img/soul/soul4.jpg)
 
 
 
@@ -97,7 +97,7 @@ iOS版本：11.3
 
 广场
 
-![广场.png]({{site.baseurl}}/assets/img/soul/soul5.png)
+![广场.png]({{site.baseurl}}/assets/img/soul/soul5.jpg)
 
 
 
